@@ -1,9 +1,6 @@
 # Hi there 👋
 #I m thomas basso lens
-<!--
-**Fodelove3/Fodelove3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on cleaning and manutencion products to strong machines
 - 🌱 I’m currently learning economy and website development
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You don't' reach me, I'll reach you
 - 😄 Pronouns: I'm drunk hero
 - ⚡ Fun fact: I don't drink etanol
--->
+
